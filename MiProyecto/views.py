@@ -10,7 +10,7 @@ def inicio(request):
 
 def otra_vista(request):
     return HttpResponse('''
-                         <h1>Puto el que lee</h1>
+                         <h1>test1</h1>
                         ''')
 
 
